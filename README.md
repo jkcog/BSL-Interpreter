@@ -32,7 +32,7 @@ BSL Interpreter is a project to explore machine learning applications for real-t
 <br />
 
 # Usage
-* Cick "Start Interpreter" to begin
+* Click "Start Interpreter" to begin
 * Type "Q" to quit
 
 <br />
