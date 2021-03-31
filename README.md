@@ -25,6 +25,7 @@ BSL Interpreter is a project to explore machine learning applications for real-t
 <br />
 
 # Setup
+* Install [Tensorflow Object Detection](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html)
 * `$ pip install -r requirements.txt`
 * Run gui.py
 
