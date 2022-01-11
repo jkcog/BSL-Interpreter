@@ -59,7 +59,9 @@ different stages of each sign, the model still struggles to identify signs that 
 the letter "J" has an "I" or an "A"). The model also performs less well with more ambiguous signs, particularly those where facial expression is key (such as
 the difference between a question and a statement) although I beleive that this could be improved with a larger and more varied dataset.
 
-To improve the model's accuracy and vocabulary you may want to train it yourself. There is more information and instructions on the [TensorFlow website](https://tensorflow-object-detection-api-tutorial.readthedocs.io/). 
+To improve the model's accuracy and vocabulary you may want to train it yourself. There is more information and instructions on the [TensorFlow website](https://tensorflow-object-detection-api-tutorial.readthedocs.io/).
+
+Since doing this project, I have had much better results in terms of hand gesture recognition by leveraging [Mediapipe](https://mediapipe.dev/#!) and training a model based on the coordinates from their [hand tracking solution](https://google.github.io/mediapipe/solutions/hands) - an example of this can be found in my [Media Player Gesture Controller](https://github.com/jkcog/Media-Player-Gesture-Controller) repository.
 
 <br />
 
